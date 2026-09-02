@@ -7,7 +7,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.metrics import r2_score, mean_absolute_error
 from sklearn.ensemble import GradientBoostingRegressor
-df = pd.read_csv("/content/drive/MyDrive/Ai Medicaps(24 08 26)/ensemble ML/Clean_dataset.csv")
+df = pd.read_csv("Clean_dataset.csv")
 x = df.drop(columns = ['Price_inr'])
 y = df['Price_inr']
 x_train, x_test, y_train, y_test = train_test_split(x,y, test_size=0.2 ,  random_state = 42 )
