@@ -1,0 +1,1253 @@
+Company,TypeName,Cpu,Ram,Gpu,OpSys,Weight,Price_inr,Touchscreen,IPS_Panel,PPI
+Apple,Ultrabook,Intel Core i5,8,Intel Iris,Mac OS,1.37,147366,0,1,227.0
+Apple,Ultrabook,Intel Core i5,8,Intel HD,Mac OS,1.34,98883,0,0,128.0
+HP,Notebook,Intel Core i5,8,Intel HD,No OS,1.86,63250,0,0,141.0
+Apple,Ultrabook,Intel Core i7,16,AMD Radeon,Mac OS,1.83,279120,0,1,221.0
+Apple,Ultrabook,Intel Core i5,8,Intel Iris,Mac OS,1.37,198396,0,1,227.0
+Acer,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.1,44000,0,0,100.0
+Apple,Ultrabook,Intel Core i7,16,Intel Iris,Mac OS,2.04,235397,0,1,221.0
+Apple,Ultrabook,Intel Core i5,8,Intel HD,Mac OS,1.34,127457,0,0,128.0
+Asus,Ultrabook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.3,164450,0,0,157.0
+Acer,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.6,84700,0,1,157.0
+HP,Notebook,Intel Core i5,4,Intel HD,No OS,1.86,43329,0,0,100.0
+HP,Notebook,Intel Core i3,4,Intel HD,No OS,1.86,37949,0,0,141.0
+Apple,Ultrabook,Intel Core i7,16,AMD Radeon,Mac OS,1.83,268397,0,1,221.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.2,54879,0,0,141.0
+Apple,Ultrabook,Other Intel Processor,8,Intel HD,Mac OS,0.92,138864,0,1,226.0
+Apple,Ultrabook,Intel Core i5,8,Intel Iris,Mac OS,1.37,167040,0,1,227.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.2,81950,0,0,141.0
+Apple,Ultrabook,Intel Core i7,16,AMD Radeon,Mac OS,1.83,314380,0,1,221.0
+Lenovo,Notebook,Intel Core i3,8,Nvidia GeForce,No OS,2.2,54890,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.22,107690,1,1,166.0
+Asus,Netbook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,0.98,21109,0,0,135.0
+Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,109890,0,1,141.0
+HP,Notebook,AMD E-Series,4,AMD Radeon,No OS,1.86,28380,0,0,100.0
+Dell,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.62,90090,1,0,166.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.91,72490,0,0,141.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.3,46050,0,0,100.0
+Apple,Ultrabook,Intel Core i5,8,Intel HD,Mac OS,1.35,120890,0,0,128.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.2,88000,0,0,141.0
+Dell,Ultrabook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.88,142780,0,0,141.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,98560,0,0,127.0
+Asus,Notebook,AMD E-Series,2,AMD Radeon,Linux/Android/Chrome OS,1.65,21890,0,0,112.0
+HP,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.71,48290,0,0,127.0
+Dell,Ultrabook,Intel Core i7,16,Intel UHD,Linux/Android/Chrome OS,1.2,205590,1,0,276.0
+Apple,Ultrabook,Intel Core i5,8,Intel HD,Mac OS,1.35,109780,0,0,128.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.44,27390,0,0,112.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,40370,0,0,100.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.8,107690,0,1,127.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.86,53756,0,0,100.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.1,96690,0,0,141.0
+Asus,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.0,42790,0,0,141.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.65,164890,0,1,141.0
+Asus,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.3,57529,0,0,100.0
+Acer,Notebook,Intel Core i5,4,Intel UHD,Linux/Android/Chrome OS,2.2,75020,0,1,141.0
+Dell,2 in 1 Convertible,Intel Core i5,12,Nvidia GeForce,Linux/Android/Chrome OS,2.77,109890,1,0,127.0
+Apple,Ultrabook,Intel Core i5,8,Intel Iris,Mac OS,1.37,156090,0,1,227.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,2.2,40590,0,0,100.0
+Asus,Gaming,AMD Ryzen-Series,8,AMD Radeon,Linux/Android/Chrome OS,3.2,142890,0,0,127.0
+Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,2.3,70290,0,0,141.0
+Asus,Notebook,Other Intel Processor,4,Nvidia GeForce,Linux/Android/Chrome OS,2.8,51260,0,0,91.0
+Lenovo,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,0.69,35090,1,1,224.0
+Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,92510,0,1,141.0
+HP,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,1.86,43834,0,0,141.0
+HP,Notebook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.49,121330,0,0,166.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.4,42240,0,0,100.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.13,84458,0,0,141.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.91,48290,0,0,141.0
+Asus,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.0,64481,0,0,100.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.43,269390,0,0,127.0
+Asus,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.0,45650,0,0,141.0
+Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux/Android/Chrome OS,2.8,142890,0,0,127.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.7,96690,0,0,157.0
+Lenovo,Notebook,Intel Core i3,8,Intel HD,No OS,1.7,65890,0,1,157.0
+Asus,Notebook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.4,103510,0,0,157.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.86,75900,0,0,141.0
+Asus,Ultrabook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.8,218130,0,0,141.0
+HP,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,1.86,48256,0,0,100.0
+HP,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.44,25190,0,0,112.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.9,60390,0,0,141.0
+Asus,Gaming,Intel Core i7,12,Nvidia GeForce,Linux/Android/Chrome OS,3.0,104390,0,0,127.0
+Dell,Ultrabook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,1.4,105050,0,1,166.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.2,95700,0,0,141.0
+MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.7,120450,0,0,127.0
+Acer,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,2.1,42790,0,0,112.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,104390,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,No OS,2.2,57090,0,0,141.0
+Dell,Notebook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,2.02,94050,0,0,141.0
+Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,58300,0,0,141.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,107470,0,0,127.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.88,120578,0,1,141.0
+Apple,Ultrabook,Intel Core i5,8,Intel HD,Mac OS,0.92,166100,0,1,226.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.63,94600,0,0,157.0
+Lenovo,Notebook,AMD A-Series,4,AMD R4,Linux/Android/Chrome OS,2.2,43890,0,0,141.0
+Acer,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.1,43450,0,0,100.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.65,148390,0,1,141.0
+HP,Ultrabook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.83,76890,0,1,141.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.96,65889,0,0,141.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.2,159390,0,1,141.0
+Dell,Ultrabook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.21,181390,0,1,166.0
+Asus,Gaming,AMD F-Series,8,AMD Radeon,Linux/Android/Chrome OS,2.45,76890,0,0,141.0
+Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,75790,0,0,141.0
+HP,Notebook,Intel Core i7,16,Intel UHD,Linux/Android/Chrome OS,1.49,131670,0,0,166.0
+Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.65,131450,0,0,141.0
+Asus,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.25,115390,0,0,157.0
+Acer,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.5,93170,1,1,166.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.2,65989,0,0,141.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.2,53350,0,0,141.0
+Asus,Notebook,Intel Core i3,6,Nvidia GeForce,Linux/Android/Chrome OS,2.0,63470,0,0,141.0
+HP,Gaming,Intel Core i7,12,Nvidia GeForce,Linux/Android/Chrome OS,2.62,137390,0,1,141.0
+HP,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,1.91,79090,0,0,141.0
+HP,Notebook,AMD E-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.1,38390,0,0,141.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.2,71170,0,0,141.0
+HP,Ultrabook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.38,123090,0,1,166.0
+HP,Notebook,Intel Core i5,6,Nvidia GeForce,Linux/Android/Chrome OS,1.58,72490,0,1,157.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.85,45639,0,0,141.0
+Asus,Ultrabook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.3,131230,0,1,157.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.2,142890,0,0,141.0
+Lenovo,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.58,162800,0,1,157.0
+Asus,Ultrabook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.5,138820,0,0,141.0
+Dell,Ultrabook,Intel Core i7,8,Intel Iris,Linux/Android/Chrome OS,1.23,151690,1,0,276.0
+Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.37,153890,1,1,166.0
+HP,Notebook,Intel Core i5,4,Intel UHD,Linux/Android/Chrome OS,1.63,79420,0,1,112.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.21,179190,0,1,166.0
+HP,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.26,153889,1,1,166.0
+HP,Notebook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.63,119240,0,0,157.0
+Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.16,124336,0,1,141.0
+Asus,Notebook,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,2.0,62040,0,0,127.0
+Asus,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.7,122980,0,0,141.0
+Acer,Notebook,Intel Core i3,6,Intel HD,Linux/Android/Chrome OS,2.1,52690,1,1,141.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.8,246565,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,No OS,2.2,69190,0,0,141.0
+HP,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.5,139810,0,0,127.0
+Acer,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.1,49610,0,0,100.0
+HP,Notebook,Other Intel Processor,4,Intel HD,No OS,1.86,28490,0,0,100.0
+HP,Notebook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.63,89320,0,0,157.0
+Asus,Notebook,AMD E-Series,4,AMD Radeon,Windows 10,1.65,30579,0,0,112.0
+Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux/Android/Chrome OS,2.8,153560,0,0,127.0
+HP,Notebook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,2.5,102080,0,0,127.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.36,70289,0,0,100.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.2,49390,0,0,141.0
+Acer,Ultrabook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.6,97240,0,1,157.0
+Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,62920,0,0,141.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.05,65780,0,0,100.0
+HP,Notebook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.63,108680,0,0,157.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,No OS,1.9,27760,0,0,100.0
+Asus,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,3.0,103180,0,0,127.0
+Lenovo,Notebook,Intel Core i5,4,Nvidia GeForce,No OS,2.2,54890,0,0,141.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.32,76890,0,1,166.0
+Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,3.0,72050,0,1,127.0
+Lenovo,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,1.75,122762,0,1,157.0
+Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,No OS,2.4,95590,0,1,141.0
+Toshiba,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.1,66220,0,0,100.0
+HP,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,1.86,40590,0,0,100.0
+Asus,Ultrabook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.25,120890,0,0,157.0
+HP,Ultrabook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,0.97,221540,1,1,352.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.0,37840,0,0,141.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.9,223190,0,0,127.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,49170,0,0,100.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.56,137419,0,0,141.0
+Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.62,98890,0,0,141.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.9,54780,0,0,100.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.8,207900,0,0,127.0
+HP,Ultrabook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.48,119020,0,0,157.0
+HP,Notebook,Intel Core i5,6,AMD Radeon,Linux/Android/Chrome OS,1.91,68090,0,0,141.0
+Lenovo,2 in 1 Convertible,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.74,69190,1,1,157.0
+Asus,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.1,144650,1,0,166.0
+Dell,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.56,115390,1,0,141.0
+Toshiba,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,49170,0,0,100.0
+Asus,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.03,44330,0,0,100.0
+Acer,Notebook,Intel Core i5,4,Nvidia GeForce,Linux/Android/Chrome OS,3.0,88550,0,1,127.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.13,80080,0,0,141.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.5,118690,0,1,141.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.1,38280,0,0,100.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.4,197890,0,1,141.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.1,39986,0,0,100.0
+Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.56,116654,0,0,141.0
+Acer,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,3.0,93940,0,1,127.0
+HP,Notebook,Intel Core i5,4,Intel UHD,Linux/Android/Chrome OS,1.49,82940,0,1,166.0
+HP,Notebook,Intel Core i5,6,AMD Radeon,Linux/Android/Chrome OS,2.71,76890,0,1,127.0
+Lenovo,Notebook,AMD A-Series,4,AMD Radeon,No OS,2.2,33990,0,0,100.0
+Toshiba,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.0,53790,0,0,100.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,101530,0,0,127.0
+Dell,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,2.3,50490,0,0,100.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,49390,0,0,100.0
+MSI,Gaming,Intel Core i7,32,Nvidia GTX,Linux/Android/Chrome OS,4.4,307890,0,0,120.0
+Lenovo,Notebook,Intel Core i5,8,AMD R17M-M1-70,Linux/Android/Chrome OS,1.9,89430,0,0,141.0
+HP,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.29,164890,1,1,331.0
+Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux/Android/Chrome OS,2.02,115390,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.23,153890,0,0,166.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel UHD,Linux/Android/Chrome OS,1.4,203390,1,1,317.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.0,87230,0,0,100.0
+Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.77,170390,1,0,127.0
+Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.06,263670,1,0,282.0
+Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,No OS,2.4,85690,0,1,141.0
+Acer,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.12,108790,0,1,166.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.8,119350,0,0,127.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.42,310640,1,0,210.0
+Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,No OS,2.8,76780,0,0,106.0
+Dell,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.62,92290,1,1,166.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,100540,0,1,127.0
+HP,Notebook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.49,105490,0,0,166.0
+HP,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.35,151690,0,1,127.0
+HP,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,114950,0,0,127.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.65,202950,0,1,282.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.1,54230,0,0,100.0
+Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.23,81620,0,0,141.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.2,192390,0,1,141.0
+Dell,Workstation,Other Intel Processor,16,Nvidia Quadro,Linux/Android/Chrome OS,2.8,336050,0,0,282.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,No OS,2.4,153780,0,0,141.0
+Dell,Notebook,Intel Core i3,6,Intel HD,Linux/Android/Chrome OS,2.3,48290,1,0,100.0
+Dell,Ultrabook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.21,214390,1,1,331.0
+Dell,Ultrabook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.2,159390,0,0,166.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.2,65670,0,0,100.0
+Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.4,85690,0,0,141.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.9,154770,0,0,127.0
+HP,Notebook,Intel Core i3,4,Intel HD,No OS,2.1,38390,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,No OS,2.2,60390,0,0,141.0
+Dell,Ultrabook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,1.4,102507,0,1,166.0
+Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,No OS,2.8,64790,0,0,106.0
+HP,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.63,113410,0,0,157.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.6,126390,0,0,157.0
+Dell,2 in 1 Convertible,Intel Core i7,16,Intel UHD,Linux/Android/Chrome OS,1.62,140690,1,0,166.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.2,74508,0,0,141.0
+Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.74,98890,0,1,157.0
+Toshiba,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.2,149930,0,0,166.0
+HP,Notebook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,2.1,87340,0,0,141.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.42,270197,0,1,127.0
+Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,91520,0,0,141.0
+Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux/Android/Chrome OS,2.3,94491,1,0,141.0
+Asus,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.0,84590,0,0,141.0
+Asus,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.69,98010,0,0,127.0
+HP,Notebook,Intel Core i7,8,AMD FirePro,Linux/Android/Chrome OS,1.9,139590,0,0,141.0
+Asus,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.37,43889,0,0,100.0
+HP,Notebook,AMD E-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.1,36300,0,0,100.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.2,164890,0,1,141.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.6,94490,0,0,157.0
+Acer,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.6,75790,1,1,166.0
+Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux/Android/Chrome OS,2.36,98890,0,0,141.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,42900,0,0,100.0
+Asus,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.2,63250,0,0,141.0
+Asus,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,4.7,427900,0,0,127.0
+Acer,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,93060,0,1,141.0
+Lenovo,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,2.2,64790,0,0,100.0
+Asus,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.1,125950,0,0,127.0
+Asus,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.69,97790,0,0,127.0
+Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.56,96690,0,0,141.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.38,118690,1,1,158.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.2,108350,0,0,141.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.04,61490,1,0,100.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.6,329890,0,0,127.0
+HP,Notebook,Intel Core i5,4,Intel UHD,Linux/Android/Chrome OS,1.49,74250,0,1,166.0
+Apple,Ultrabook,Intel Core i5,8,Intel Iris,Mac OS,1.37,224400,0,1,227.0
+Dell,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,2.08,90090,1,1,141.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.3,197890,0,0,127.0
+Asus,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,1.68,51590,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.37,203390,1,1,158.0
+Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,3.0,77220,0,1,127.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.41,104390,0,0,166.0
+HP,Notebook,AMD A-Series,8,AMD Radeon,Linux/Android/Chrome OS,1.91,49049,0,0,100.0
+HP,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.9,116490,0,1,127.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.14,274890,0,0,127.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.0,186890,1,1,141.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.8,125620,0,0,127.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,2.2,48840,0,0,141.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.1,79420,0,1,141.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.18,72270,0,0,141.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.24,62150,0,0,141.0
+Dell,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,2.67,87890,1,0,141.0
+Asus,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.1,164890,1,0,166.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,No OS,2.2,51370,0,0,141.0
+HP,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,111980,0,0,127.0
+Lenovo,Notebook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,2.05,96800,0,0,141.0
+Apple,Ultrabook,Intel Core i5,8,Intel Iris,Mac OS,1.37,215479,0,1,227.0
+Asus,Gaming,AMD Ryzen-Series,16,AMD Radeon,Linux/Android/Chrome OS,3.2,170390,0,0,127.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.14,80858,0,0,141.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.36,274890,1,0,210.0
+Toshiba,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,89320,0,0,100.0
+Dell,Notebook,Intel Core i7,12,Intel HD,Linux/Android/Chrome OS,2.3,78438,0,0,100.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.8,120890,0,0,127.0
+Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,81950,0,1,141.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.8,53790,0,0,106.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.8,93390,0,0,127.0
+Lenovo,Notebook,Intel Core i7,6,Nvidia GeForce,Linux/Android/Chrome OS,2.8,94490,0,0,106.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.25,47080,0,0,141.0
+Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,91190,0,1,141.0
+Lenovo,Notebook,Intel Core i5,6,Intel HD,Linux/Android/Chrome OS,2.2,63690,0,0,141.0
+Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,3.0,104610,0,1,141.0
+Acer,Notebook,Intel Core i7,12,Intel HD,Linux/Android/Chrome OS,2.15,72490,1,1,141.0
+Lenovo,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.95,120670,0,1,141.0
+Asus,Ultrabook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,1.7,107470,0,0,141.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.5,129690,0,1,141.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.2,72491,0,0,141.0
+Acer,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,2.19,21890,0,0,100.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,3.0,130570,0,0,127.0
+HP,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,2.54,53790,0,0,106.0
+Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.0,201190,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,2.05,81290,0,0,141.0
+Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,3.2,142890,0,1,141.0
+Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,107690,0,0,141.0
+Dell,Workstation,Intel Core i7,16,Nvidia Quadro,Linux/Android/Chrome OS,3.42,317335,0,0,127.0
+Lenovo,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.4,54890,0,0,141.0
+Asus,Ultrabook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.63,161480,0,0,141.0
+Asus,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.3,55990,0,0,112.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.9,233420,0,0,127.0
+Lenovo,Notebook,Intel Core i5,6,Nvidia GeForce,Linux/Android/Chrome OS,2.8,71390,0,0,106.0
+Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,No OS,2.2,60390,0,0,100.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,139150,0,0,141.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,No OS,2.2,39599,0,0,100.0
+HP,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.28,217250,1,0,166.0
+Toshiba,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,114730,0,1,141.0
+Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.3,90090,0,0,141.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.86,51590,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.1,109890,0,1,166.0
+Dell,Ultrabook,Intel Core i7,16,Intel UHD,Linux/Android/Chrome OS,1.21,274890,1,1,331.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.8,230890,0,1,141.0
+Acer,Notebook,AMD A-Series,8,AMD Radeon,Linux/Android/Chrome OS,2.23,51590,0,0,141.0
+Asus,2 in 1 Convertible,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.1,30250,1,0,135.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.33,92840,0,0,141.0
+HP,2 in 1 Convertible,Intel Core i7,16,Intel UHD,Linux/Android/Chrome OS,1.29,269390,1,1,331.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.45,50589,0,0,118.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.95,107800,0,0,157.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.4,53350,0,0,135.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.48,142120,0,0,157.0
+Lenovo,Notebook,Intel Core i5,4,Nvidia GeForce,Linux/Android/Chrome OS,2.79,64790,0,0,106.0
+Asus,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.0,120340,0,0,157.0
+HP,Notebook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,2.1,99220,0,1,100.0
+Acer,Notebook,AMD A-Series,8,AMD Radeon,Linux/Android/Chrome OS,2.2,72490,0,0,100.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.44,32120,0,0,112.0
+Acer,Notebook,Intel Core i5,6,Intel HD,Linux/Android/Chrome OS,2.23,60390,0,0,100.0
+Asus,Ultrabook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.7,115489,0,0,141.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.26,146850,0,0,176.0
+Dell,Notebook,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,2.06,290290,1,0,282.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.7,131890,0,0,127.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.0,103730,0,1,141.0
+Asus,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.0,146740,0,0,157.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.85,49390,0,0,141.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,109890,0,0,141.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.48,139480,0,0,157.0
+Dell,Ultrabook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,1.9,115390,0,1,141.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.84,125840,0,0,141.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.0,30249,0,0,100.0
+Dell,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.0,125702,0,0,141.0
+Dell,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,30239,0,0,100.0
+Lenovo,Notebook,AMD A-Series,12,AMD Radeon,Linux/Android/Chrome OS,2.2,98890,0,0,141.0
+HP,Notebook,Intel Core i3,8,Nvidia GeForce,Linux/Android/Chrome OS,2.1,78760,0,1,141.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel UHD,Linux/Android/Chrome OS,1.4,230890,1,1,317.0
+Dell,Ultrabook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.2,173690,0,0,166.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.4,124190,0,1,141.0
+HP,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.44,30690,0,0,112.0
+Dell,Ultrabook,Intel Core i7,16,Intel UHD,Linux/Android/Chrome OS,1.88,176876,0,0,141.0
+Asus,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.5,41250,1,0,135.0
+Dell,Ultrabook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,1.9,72930,0,0,141.0
+Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.06,223016,1,0,282.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.84,143440,0,0,141.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.7,154990,0,0,127.0
+HP,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,2.6,191210,0,0,141.0
+Toshiba,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.4,154330,0,1,141.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.02,106799,0,0,141.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,No OS,2.2,35419,0,0,100.0
+Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.65,109890,0,0,141.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.36,61311,1,0,100.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.36,156970,0,0,157.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.86,48290,0,0,100.0
+Asus,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.0,103950,0,0,157.0
+Lenovo,Notebook,Intel Core i5,6,Nvidia GeForce,Linux/Android/Chrome OS,2.8,79090,0,0,106.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.86,70290,0,0,141.0
+Lenovo,Notebook,Intel Core i3,8,Nvidia GeForce,No OS,2.2,54890,0,0,100.0
+HP,Notebook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,2.04,42790,0,0,100.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.8,119350,0,0,127.0
+Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,No OS,2.4,88990,0,1,141.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.33,98890,0,0,141.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.36,192500,0,1,157.0
+Asus,2 in 1 Convertible,Intel Core i7,12,Nvidia GeForce,Linux/Android/Chrome OS,2.26,120890,1,0,141.0
+Acer,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.1,46860,0,0,100.0
+Asus,Gaming,AMD Ryzen-Series,16,AMD Radeon,Linux/Android/Chrome OS,3.25,241890,0,1,127.0
+Lenovo,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.6,53790,0,0,106.0
+Dell,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.62,95591,1,0,166.0
+HP,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,1.91,53789,0,0,141.0
+Lenovo,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.59,60830,0,1,135.0
+Dell,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.8,33990,0,0,100.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.5,31460,0,0,112.0
+Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.4,93060,0,0,141.0
+HP,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,3.35,131010,0,1,127.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,1.85,44385,0,0,141.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.3,182050,0,1,141.0
+Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,1.5,120890,0,1,157.0
+Asus,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.1,192379,1,0,166.0
+Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.13,251020,0,1,210.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.5,60390,0,1,166.0
+Dell,Workstation,Intel Core i5,8,AMD FirePro,Linux/Android/Chrome OS,2.23,150590,0,0,141.0
+Dell,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,2.0,234850,0,1,141.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.42,275990,1,0,210.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,3.0,114290,0,0,127.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.0,175010,0,0,127.0
+Acer,Notebook,Intel Core i5,12,Nvidia GeForce,Linux/Android/Chrome OS,2.2,76339,0,1,100.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.7,148390,0,0,127.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.33,85676,0,0,141.0
+HP,Ultrabook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,1.91,54890,0,0,141.0
+Lenovo,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.1,135252,0,1,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.9,103180,0,1,157.0
+Dell,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,1.78,298320,1,0,282.0
+Lenovo,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.13,288750,0,1,210.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,33660,0,0,100.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.9,168190,0,0,127.0
+Lenovo,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.1,125895,0,1,141.0
+Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,96690,0,0,141.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.8,247390,0,0,127.0
+Asus,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.1,206030,0,0,157.0
+Toshiba,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.2,192170,0,0,166.0
+Dell,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.36,184800,0,0,157.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.2,44990,0,0,141.0
+Lenovo,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.15,33490,0,0,135.0
+Lenovo,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,2.67,211750,0,0,141.0
+Lenovo,Ultrabook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.7,213730,0,1,210.0
+HP,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.1,51590,0,0,141.0
+Acer,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.6,86791,1,1,166.0
+Asus,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.27,102080,1,1,166.0
+Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,2.3,65879,0,0,141.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.65,75790,0,0,118.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.43,165000,0,0,157.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.14,59395,0,0,100.0
+Lenovo,Ultrabook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,1.75,133692,0,1,157.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.0,208890,1,1,282.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.31,156970,0,0,141.0
+Asus,Notebook,Intel Core i3,8,Nvidia GeForce,Linux/Android/Chrome OS,2.3,65670,0,0,141.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.42,307890,0,1,170.0
+Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.62,127490,0,1,141.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.02,125664,0,0,141.0
+Dell,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.6,120890,0,0,157.0
+HP,Gaming,Intel Core i7,12,Nvidia GeForce,Linux/Android/Chrome OS,3.35,219890,0,0,127.0
+Lenovo,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.4,111100,0,1,166.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.7,65890,0,1,157.0
+Lenovo,Workstation,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.3,268950,0,1,282.0
+Lenovo,Notebook,Intel Core i7,16,Nvidia Quadro,Linux/Android/Chrome OS,2.5,269390,0,0,141.0
+Asus,Gaming,AMD Ryzen-Series,8,AMD Radeon,Linux/Android/Chrome OS,3.2,186450,0,0,127.0
+HP,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.1,38170,0,0,100.0
+Lenovo,Ultrabook,Intel Core i7,24,Intel HD,Linux/Android/Chrome OS,1.32,262020,0,0,210.0
+Asus,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.0,61490,0,0,141.0
+Lenovo,Notebook,AMD A-Series,8,AMD Radeon,Linux/Android/Chrome OS,2.8,57090,0,0,106.0
+Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,2.2,82390,0,0,141.0
+Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.36,157190,0,1,176.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,38390,0,0,141.0
+HP,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,120890,0,1,141.0
+Dell,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,1.64,129690,0,0,157.0
+Acer,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.4,48598,0,0,100.0
+Dell,Workstation,Other Intel Processor,8,Nvidia Quadro,Linux/Android/Chrome OS,2.23,219230,0,0,141.0
+MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,113051,0,0,141.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.91,64790,0,0,100.0
+Dell,Workstation,Intel Core i7,16,Nvidia Quadro,Linux/Android/Chrome OS,2.17,217250,0,1,141.0
+HP,Workstation,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.31,168740,0,1,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.65,147950,0,0,157.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.36,107690,0,0,141.0
+Dell,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.47,52690,1,0,135.0
+Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,4.42,225060,0,1,127.0
+HP,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,2.5,70389,0,0,106.0
+Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,2.23,59840,0,0,141.0
+Acer,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.4,47850,0,0,135.0
+Asus,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.37,82390,0,0,141.0
+Lenovo,Notebook,Intel Core i7,8,AMD Radeon,No OS,1.5,87890,0,1,157.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,2.67,229900,0,0,141.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.0,33440,0,0,100.0
+Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,51590,0,0,100.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.02,83490,0,0,141.0
+HP,Gaming,Intel Core i7,12,Nvidia GeForce,Linux/Android/Chrome OS,3.78,186890,0,1,127.0
+Lenovo,Ultrabook,Intel Core i7,12,Intel HD,Linux/Android/Chrome OS,1.4,204380,0,1,210.0
+HP,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.29,219890,1,1,331.0
+HP,Notebook,Intel Core i5,8,AMD FirePro,Linux/Android/Chrome OS,1.9,126940,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.42,202604,1,0,166.0
+Asus,Notebook,Intel Core i7,12,Intel HD,Linux/Android/Chrome OS,2.06,142890,0,1,282.0
+Dell,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,1.79,81400,0,0,112.0
+Dell,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,1.78,264880,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.7,150040,0,0,157.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.2,74250,0,0,141.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.05,183920,0,1,166.0
+Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.16,138820,0,1,141.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.18,64526,0,0,100.0
+HP,Notebook,Intel Core i5,4,Intel UHD,Linux/Android/Chrome OS,1.49,79860,0,1,166.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.3,62150,0,0,100.0
+Lenovo,Notebook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.75,115390,0,1,157.0
+Dell,Workstation,Intel Core i7,16,Nvidia Quadro,Linux/Android/Chrome OS,2.17,257180,0,1,141.0
+Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.06,208890,0,0,141.0
+Lenovo,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.36,197780,0,1,176.0
+Asus,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,0.91,214500,0,0,176.0
+Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.3,111319,0,1,141.0
+Toshiba,Ultrabook,Intel Core i7,32,Intel HD,Linux/Android/Chrome OS,1.05,307890,1,0,166.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.99,148500,0,0,141.0
+Acer,Notebook,AMD A-Series,8,AMD Radeon,Linux/Android/Chrome OS,2.2,63690,0,0,100.0
+Asus,Gaming,Intel Core i7,24,Nvidia GeForce,Linux/Android/Chrome OS,4.33,139590,1,1,127.0
+Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.3,120890,0,1,125.0
+Lenovo,Notebook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,2.17,98879,0,0,141.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.48,192390,0,0,157.0
+Lenovo,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,1.4,104390,0,1,166.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.3,100210,0,1,141.0
+Asus,Netbook,Other Intel Processor,4,Intel HD,Windows 10,1.2,37400,0,0,135.0
+HP,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,1.91,68089,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.4,175890,1,1,158.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.1,32890,0,0,112.0
+Lenovo,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.25,29150,0,0,135.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.44,104390,0,0,166.0
+Asus,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.0,134640,0,0,141.0
+Acer,Notebook,Intel Core i5,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,67430,0,1,141.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.34,145530,0,1,166.0
+Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,No OS,2.4,126390,0,1,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.29,98890,1,1,166.0
+Acer,Notebook,Intel Core i7,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,70290,0,0,141.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.18,91960,0,0,141.0
+Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux/Android/Chrome OS,2.2,134116,0,0,141.0
+Asus,Netbook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.1,26950,0,0,135.0
+HP,Notebook,Intel Core i5,4,Intel UHD,Linux/Android/Chrome OS,2.04,57362,1,0,100.0
+Asus,Gaming,Intel Core i7,24,Nvidia GeForce,Linux/Android/Chrome OS,2.24,326480,0,0,141.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.04,97790,0,0,141.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.0,165440,0,0,127.0
+Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,3.2,153890,0,1,141.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.32,153890,0,1,166.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.64,140770,0,0,157.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.63,75790,0,0,100.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.8,97790,0,1,127.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.02,147400,0,0,157.0
+Lenovo,Notebook,Intel Core i7,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,87890,0,0,141.0
+Lenovo,Notebook,Intel Core i3,8,Nvidia GeForce,No OS,2.2,50490,0,0,100.0
+Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,2.3,64350,0,0,141.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.9,151470,0,0,141.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.42,331405,0,1,127.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.0,94600,0,1,141.0
+Asus,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.0,142890,0,1,282.0
+Asus,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.3,181390,0,1,141.0
+Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.93,150590,0,0,141.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.2,87715,0,0,141.0
+HP,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.86,43889,0,0,141.0
+HP,Gaming,Intel Core i7,12,Nvidia GeForce,Linux/Android/Chrome OS,2.62,197890,0,0,127.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.87,94490,0,1,157.0
+Dell,Ultrabook,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.2,153890,1,0,276.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.6,80946,0,0,157.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.34,125950,0,1,276.0
+Acer,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.4,87780,0,0,141.0
+Asus,Notebook,AMD E-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.0,38390,0,0,100.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,77605,0,0,141.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.87,86350,0,0,157.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,No OS,2.15,50858,0,0,141.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.86,43670,0,0,141.0
+Lenovo,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.99,190190,0,1,141.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.2,54890,0,0,141.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.9,122869,0,0,141.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.42,296890,0,1,127.0
+HP,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,2.65,59856,0,0,106.0
+HP,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.63,140800,0,0,127.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.0,24640,0,0,100.0
+Lenovo,Notebook,Intel Core i7,6,Nvidia GeForce,Linux/Android/Chrome OS,2.8,104390,0,0,106.0
+HP,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,1.91,62579,0,1,141.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.18,67969,0,0,100.0
+Acer,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.25,38390,1,1,190.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.05,69300,0,0,141.0
+HP,Ultrabook,Other Intel Processor,16,Intel HD,Linux/Android/Chrome OS,1.16,216150,1,1,276.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,3.4,329890,0,1,127.0
+Asus,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,92290,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.21,175890,1,1,331.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.93,105490,0,0,100.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,37840,0,0,141.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.02,108900,0,0,112.0
+HP,Workstation,Intel Core i5,8,Nvidia Quadro,Linux/Android/Chrome OS,3.14,204709,0,0,106.0
+HP,Notebook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,1.94,42790,0,0,112.0
+HP,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,1.95,71390,0,1,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.3,91300,0,0,141.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.05,75350,0,0,141.0
+Toshiba,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.24,205150,1,0,157.0
+Lenovo,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,4.6,292930,0,1,127.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.14,300190,0,0,127.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.2,82391,0,0,141.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.9,110937,0,0,100.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.49,79090,0,0,166.0
+Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.93,169113,0,0,141.0
+Dell,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.26,32450,0,0,135.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.5,258390,0,0,127.0
+HP,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.78,164780,0,1,127.0
+Lenovo,Ultrabook,Intel Core i7,12,Intel HD,Linux/Android/Chrome OS,1.4,184030,0,1,157.0
+Lenovo,Notebook,Intel Core i7,12,Intel HD,Linux/Android/Chrome OS,2.2,66990,1,0,100.0
+Asus,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.73,194700,0,1,127.0
+Asus,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.2,81290,1,0,100.0
+Lenovo,Notebook,AMD A-Series,12,AMD Radeon,Linux/Android/Chrome OS,2.2,104390,0,0,141.0
+Dell,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.39,66330,1,0,135.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,2.8,58190,0,0,127.0
+Lenovo,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,2.29,50490,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.37,222750,1,1,166.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.7,162140,0,1,157.0
+Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.34,183700,1,0,176.0
+Dell,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,2.06,193930,1,0,141.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.84,134090,0,0,141.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,73533,0,0,100.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.6,36190,0,0,157.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.14,241890,0,0,127.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.18,51150,0,0,100.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.8,252890,0,0,282.0
+Toshiba,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.2,153890,0,1,141.0
+Lenovo,Notebook,Intel Core i5,6,Intel HD,Linux/Android/Chrome OS,2.4,62040,0,0,141.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.0,142890,1,1,141.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.6,38390,0,0,112.0
+Lenovo,Notebook,Other Intel Processor,32,Nvidia Quadro,Linux/Android/Chrome OS,2.5,538890,0,1,282.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.59,96691,0,0,141.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.18,48829,0,0,100.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.25,39490,0,0,100.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.93,95590,0,0,100.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,3.0,128480,0,0,127.0
+Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,2.18,62590,0,0,141.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.84,152790,0,0,141.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.94,249465,0,0,141.0
+Acer,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.25,41690,1,1,135.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.31,123640,0,0,112.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.65,161150,0,0,157.0
+Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,2.2,85360,0,0,141.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.88,102520,0,0,100.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,98890,0,0,141.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,No OS,2.2,51480,0,0,141.0
+Asus,2 in 1 Convertible,Intel Core i5,6,Intel HD,Linux/Android/Chrome OS,1.5,70291,1,0,166.0
+Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.0,200200,0,0,141.0
+Asus,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.1,209000,0,0,157.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.62,162690,0,0,141.0
+Lenovo,Notebook,Intel Core i5,4,Intel UHD,Linux/Android/Chrome OS,1.8,91190,0,0,141.0
+Lenovo,Notebook,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,63690,0,0,141.0
+Asus,Notebook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,2.0,43890,0,0,100.0
+Asus,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,1.99,99728,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.23,205590,1,0,276.0
+Lenovo,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.42,27390,0,0,112.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.37,193316,1,1,166.0
+Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.06,263890,1,0,282.0
+Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,121990,0,1,141.0
+HP,Notebook,AMD A-Series,8,AMD Radeon,Linux/Android/Chrome OS,2.6,57299,0,0,108.0
+Lenovo,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.14,269500,0,1,157.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,No OS,2.5,128590,0,1,141.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.4,49500,0,0,100.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.43,30140,0,0,112.0
+Acer,Ultrabook,Intel Core i5,8,Intel Graphics,Linux/Android/Chrome OS,1.8,101090,0,1,157.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.2,133430,0,0,166.0
+Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.36,174240,0,1,176.0
+Asus,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,3.8,307890,0,1,127.0
+Acer,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.4,77990,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.2,159489,0,0,166.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,131098,0,0,141.0
+HP,Notebook,Intel Core i3,4,Intel HD,No OS,1.86,40139,0,0,100.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.0,117040,0,1,141.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.2,101090,0,0,141.0
+Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux/Android/Chrome OS,2.2,124850,0,0,141.0
+Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,3.31,131560,0,1,141.0
+Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,4.42,346211,0,1,255.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.56,135190,0,0,157.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,46090,0,0,100.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.2,58850,0,0,141.0
+HP,Notebook,Intel Core i3,6,AMD Radeon,Linux/Android/Chrome OS,2.04,59290,0,0,141.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.7,163545,0,0,127.0
+Toshiba,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,54780,0,0,100.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.06,105050,0,0,141.0
+HP,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.1,81950,0,0,141.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.0,138380,0,1,141.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,45320,0,0,100.0
+Lenovo,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,1.9,89974,0,0,141.0
+Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.3,113740,1,1,166.0
+Lenovo,Notebook,AMD E-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.2,38390,0,0,100.0
+HP,2 in 1 Convertible,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,1.63,76890,1,1,157.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.4,142340,0,0,141.0
+Asus,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.1,124850,0,0,157.0
+HP,2 in 1 Convertible,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,1.4,54450,1,0,135.0
+Acer,Gaming,Intel Core i5,16,Nvidia GeForce,Linux/Android/Chrome OS,2.5,142890,0,0,141.0
+MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,109769,0,0,141.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.86,46090,0,0,100.0
+Dell,Gaming,Intel Core i5,16,Nvidia GeForce,Linux/Android/Chrome OS,3.21,225610,0,0,141.0
+HP,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.5,76890,0,1,127.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Linux/Android/Chrome OS,1.19,164890,1,1,166.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.49,309512,0,0,141.0
+HP,Notebook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,1.86,67387,0,0,100.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.2,60024,0,0,100.0
+HP,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.65,62590,0,1,127.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.1,34980,0,0,100.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.45,41250,0,0,112.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.7,76890,0,0,157.0
+HP,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,3.14,209879,0,0,127.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.42,284900,1,0,210.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.5,107030,0,1,166.0
+Acer,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.4,29590,0,0,135.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.38,192390,1,0,157.0
+Asus,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.2,73590,1,0,176.0
+Toshiba,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.36,206470,1,0,166.0
+HP,Notebook,Intel Core i7,4,AMD Radeon,Linux/Android/Chrome OS,2.1,75790,0,1,141.0
+Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.56,90090,0,0,141.0
+Lenovo,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.2,43890,0,0,141.0
+Lenovo,Notebook,AMD A-Series,8,AMD Radeon,Linux/Android/Chrome OS,2.2,47190,0,0,100.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.1,68360,0,0,141.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,1.9,49500,0,0,100.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.18,87450,0,0,141.0
+Acer,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.6,109890,1,1,166.0
+Lenovo,Workstation,Intel Core i7,16,Nvidia Quadro,Linux/Android/Chrome OS,2.18,204050,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.8,131010,0,0,157.0
+HP,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.71,72051,0,1,127.0
+Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,137390,0,1,141.0
+Dell,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,1.64,119790,0,0,157.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.98,79860,0,0,141.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.5,32780,0,0,157.0
+Dell,Notebook,Intel Core i5,16,Intel HD,Linux/Android/Chrome OS,1.93,156933,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,1.87,94278,0,1,157.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.9,129690,0,0,141.0
+Lenovo,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.19,32780,0,0,100.0
+HP,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.63,132000,0,0,127.0
+Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.17,185530,0,1,210.0
+HP,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.58,92026,1,1,118.0
+Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.32,164890,0,1,157.0
+Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,4.36,402534,0,0,255.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.7,148333,0,0,127.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,No OS,1.9,53889,0,0,100.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.2,79090,0,0,141.0
+Dell,2 in 1 Convertible,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.71,71390,1,0,166.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.32,64847,0,0,100.0
+HP,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.1,53790,0,0,141.0
+Acer,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.2,212850,0,1,127.0
+Dell,Notebook,Intel Core i5,12,Intel HD,Linux/Android/Chrome OS,2.25,71390,0,0,100.0
+HP,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.1,71500,0,0,141.0
+Acer,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.4,61490,0,0,100.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.44,105600,0,1,166.0
+Lenovo,Notebook,Intel Core i7,4,Intel HD,Linux/Android/Chrome OS,1.85,85690,0,0,141.0
+HP,Workstation,Intel Core i7,16,Nvidia Quadro,Linux/Android/Chrome OS,2.6,266090,0,0,141.0
+Dell,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Linux/Android/Chrome OS,1.55,72490,1,0,166.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.8,230393,0,0,141.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.4,45188,0,0,100.0
+Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.0,132770,0,0,141.0
+Dell,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,2.0,73150,0,0,100.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.25,168850,1,1,157.0
+Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.7,109890,1,0,157.0
+Lenovo,Workstation,Intel Core i7,16,Nvidia Quadro,Linux/Android/Chrome OS,2.5,362890,0,1,282.0
+Acer,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.68,36300,0,0,112.0
+HP,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,1.86,59290,0,0,141.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.6,123938,0,0,112.0
+HP,Workstation,Other Intel Processor,16,Nvidia Quadro,Linux/Android/Chrome OS,3.0,482790,0,1,127.0
+Lenovo,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.4,52250,1,0,135.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.84,209000,0,0,141.0
+Asus,Notebook,Intel Core i5,4,Nvidia GeForce,No OS,2.45,63690,0,0,100.0
+Lenovo,Ultrabook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.7,120560,0,0,157.0
+Asus,Notebook,Intel Core i7,4,Intel HD,Linux/Android/Chrome OS,2.37,93489,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.3,131890,1,1,276.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,120890,0,1,141.0
+HP,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,2.59,171710,0,0,141.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.42,315589,0,1,282.0
+Acer,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.1,65890,0,0,100.0
+Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,115280,0,1,141.0
+Dell,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.18,204490,0,0,176.0
+Asus,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.2,124190,0,1,276.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.65,93390,0,0,118.0
+Acer,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.6,72050,0,0,118.0
+Asus,Notebook,Other Intel Processor,4,Nvidia GeForce,Linux/Android/Chrome OS,2.8,51737,0,0,91.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.72,120890,1,1,282.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.1,32780,0,0,100.0
+Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux/Android/Chrome OS,2.3,129940,0,0,141.0
+Toshiba,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.75,112200,0,1,112.0
+Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.62,120890,0,0,141.0
+HP,Ultrabook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.26,136840,0,0,125.0
+Asus,2 in 1 Convertible,Intel Core i7,12,Nvidia GeForce,Linux/Android/Chrome OS,2.3,92290,1,0,141.0
+Lenovo,Notebook,Intel Core i7,16,Nvidia Quadro,Linux/Android/Chrome OS,2.5,260700,0,0,282.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.8,69960,0,1,157.0
+Asus,Notebook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,2.0,64009,0,0,141.0
+Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,4.42,394768,0,1,127.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.3,258500,0,1,127.0
+Toshiba,Ultrabook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.47,194040,0,1,157.0
+Lenovo,Notebook,Other Intel Processor,8,Intel HD,No OS,2.2,36190,0,0,100.0
+Lenovo,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.7,252890,0,0,157.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.6,208010,0,1,157.0
+MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,119790,0,0,141.0
+Lenovo,Gaming,Intel Core i7,4,Nvidia GeForce,Linux/Android/Chrome OS,2.4,109890,0,1,141.0
+Acer,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.2,252890,0,1,127.0
+Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.62,108350,0,0,141.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.24,147290,0,0,141.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.37,216700,1,1,166.0
+Lenovo,2 in 1 Convertible,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.08,105490,1,0,141.0
+Apple,Ultrabook,Other Intel Processor,8,Intel HD,Mac OS,0.92,128150,0,1,226.0
+Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.42,256300,1,1,210.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.63,32890,0,0,112.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.95,89100,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.38,148390,1,1,158.0
+Dell,Notebook,Intel Core i3,8,AMD Radeon,Linux/Android/Chrome OS,2.0,81290,0,0,141.0
+HP,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,3.14,227139,0,0,141.0
+Asus,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.37,120890,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.29,164890,0,0,166.0
+Dell,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.06,192390,1,0,282.0
+Dell,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.63,81840,0,0,135.0
+HP,Netbook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.26,152790,0,0,125.0
+Toshiba,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.1,85800,0,0,100.0
+HP,Notebook,AMD A-Series,8,AMD Radeon,Linux/Android/Chrome OS,2.04,69190,0,0,100.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.62,184690,0,0,282.0
+Lenovo,Notebook,Intel Core i5,4,Nvidia GeForce,Linux/Android/Chrome OS,2.4,66990,0,0,141.0
+HP,Gaming,Intel Core i7,12,AMD Radeon,Linux/Android/Chrome OS,3.74,192390,0,1,127.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.9,265650,0,0,127.0
+Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.98,105710,0,0,141.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.18,86879,0,0,141.0
+Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.32,204490,0,0,157.0
+HP,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.23,42350,0,0,135.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.36,275552,0,1,127.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.76,83050,0,0,112.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,53889,0,0,100.0
+Toshiba,Ultrabook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.25,119900,0,0,112.0
+Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.13,274890,0,1,157.0
+MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.4,131890,0,0,141.0
+Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.13,206250,0,1,157.0
+Toshiba,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.75,54890,0,0,112.0
+Asus,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.1,149380,1,0,166.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.76,64350,0,0,112.0
+Acer,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.35,39050,0,1,135.0
+Acer,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,1.5,68090,0,1,157.0
+Lenovo,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.1,230890,0,1,210.0
+Asus,Notebook,Intel Core i5,4,Nvidia GeForce,Linux/Android/Chrome OS,2.1,57090,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.7,130460,0,0,157.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.32,181500,0,1,157.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.21,305209,0,0,141.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.9,266090,0,0,127.0
+Toshiba,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.0,73590,0,0,100.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.5,35750,0,0,112.0
+Asus,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.3,64900,0,0,141.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.73,197890,0,0,127.0
+Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,4.42,338018,0,1,127.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.63,100100,0,0,106.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.18,78539,0,0,100.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.54,205700,0,0,157.0
+Dell,Notebook,Intel Core i7,4,AMD Radeon,Linux/Android/Chrome OS,2.18,81290,0,0,141.0
+HP,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.4,67650,1,0,135.0
+Asus,Ultrabook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,1.45,112860,0,1,166.0
+HP,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.28,250470,1,0,166.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.54,161480,0,0,157.0
+HP,Notebook,Other Intel Processor,4,Intel HD,No OS,1.86,32890,0,0,100.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.1,208890,0,0,141.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.83,95150,0,0,127.0
+Lenovo,Ultrabook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.96,209330,0,1,157.0
+Asus,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.3,86570,0,1,141.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.9,103950,0,0,141.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.0,49390,0,0,100.0
+HP,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.28,281490,1,0,166.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.62,71390,1,0,166.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,2.2,51590,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.3,93573,0,1,141.0
+HP,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,1.84,148390,0,0,141.0
+Toshiba,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.05,141350,0,0,166.0
+Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,No OS,2.5,111870,0,1,141.0
+Dell,Ultrabook,Intel Core i7,16,Intel Iris,Linux/Android/Chrome OS,1.29,246400,1,0,276.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.07,100100,0,0,141.0
+Toshiba,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.2,120450,0,0,118.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.37,214500,1,1,166.0
+Acer,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.56,99220,0,1,157.0
+Dell,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,2.23,195580,0,0,141.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.38,116050,0,0,100.0
+Lenovo,Notebook,Intel Core i3,4,AMD Radeon,No OS,2.2,52690,0,0,141.0
+Toshiba,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.0,152680,0,1,141.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.44,80850,0,1,166.0
+Dell,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.6,185900,0,0,176.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.0,43889,0,0,100.0
+Dell,Notebook,Intel Core i5,4,Nvidia GeForce,Linux/Android/Chrome OS,2.18,100375,0,0,141.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.04,92290,0,0,141.0
+HP,2 in 1 Convertible,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.28,187000,1,0,166.0
+HP,2 in 1 Convertible,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.3,75328,1,0,100.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.65,38280,0,0,111.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,73590,0,1,141.0
+Dell,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,40590,0,0,100.0
+HP,2 in 1 Convertible,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.28,197890,1,0,166.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.18,50127,0,0,100.0
+Asus,Gaming,Intel Core i5,12,Nvidia GeForce,Linux/Android/Chrome OS,2.2,150689,0,0,127.0
+Acer,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.25,32670,0,1,135.0
+Lenovo,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.8,41690,0,0,106.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.95,139150,0,0,157.0
+HP,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.42,153890,1,0,276.0
+Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.32,197890,0,1,157.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.43,291390,0,1,255.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.05,162250,0,0,166.0
+Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.62,102190,0,0,141.0
+HP,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.04,99000,0,0,141.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.18,67540,0,0,100.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.9,102850,0,0,141.0
+Dell,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.24,221441,1,0,276.0
+Asus,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,3.58,140690,0,1,127.0
+Dell,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.22,181390,1,0,166.0
+Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.13,225390,0,1,157.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.95,215929,0,1,141.0
+HP,Netbook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.26,163130,0,0,176.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,39490,0,1,141.0
+Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.6,86790,0,1,141.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.6,132550,0,0,157.0
+HP,Ultrabook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,1.09,341000,1,0,352.0
+Lenovo,Notebook,Intel Core i7,6,Nvidia GeForce,Linux/Android/Chrome OS,2.2,86790,0,0,141.0
+HP,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.04,112089,0,0,141.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.4,54890,0,0,141.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.44,96910,0,0,166.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.49,105600,0,0,166.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.7,175890,0,0,127.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.6,148390,0,0,141.0
+MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,123190,0,0,141.0
+Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,2.18,75349,0,0,100.0
+HP,Ultrabook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,1.84,142669,0,0,141.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.39,126390,1,0,276.0
+Toshiba,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.4,217250,0,1,141.0
+Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.37,200750,1,1,166.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.95,80289,0,0,100.0
+Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.36,181500,0,1,176.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.31,128150,0,0,141.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.18,77887,0,0,100.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.95,126390,0,0,112.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,33990,0,0,100.0
+HP,Ultrabook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.26,173690,0,0,176.0
+HP,Notebook,Other Intel Processor,4,Intel HD,No OS,1.86,31779,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel Iris,Linux/Android/Chrome OS,1.3,197890,1,1,276.0
+Toshiba,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.47,121550,0,1,157.0
+HP,Netbook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.26,183590,0,0,176.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.18,61446,0,0,100.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,131890,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.36,180290,0,0,157.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.36,303380,0,0,170.0
+HP,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.75,153890,0,1,127.0
+Asus,Notebook,Other Intel Processor,4,Nvidia GeForce,Linux/Android/Chrome OS,2.8,58300,0,0,106.0
+Acer,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.23,68090,0,0,100.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.2,123090,0,0,100.0
+Lenovo,2 in 1 Convertible,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,1.1,142890,1,1,195.0
+Lenovo,Gaming,AMD F-Series,16,AMD Radeon,Linux/Android/Chrome OS,2.5,109890,0,1,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.36,161942,1,0,176.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.2,75350,0,0,141.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.36,72490,0,0,106.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.68,38390,0,0,112.0
+HP,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,2.0,247390,0,1,141.0
+Dell,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.36,195250,0,0,157.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.2,160600,0,0,166.0
+Asus,2 in 1 Convertible,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,1.2,127490,0,0,176.0
+Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.7,163789,0,1,157.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.36,346940,0,1,255.0
+Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.24,208890,1,0,166.0
+HP,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.45,85250,1,0,135.0
+Dell,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.3,139480,0,0,276.0
+Acer,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.25,42790,1,1,135.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.2,168850,0,0,166.0
+Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.36,193600,0,1,176.0
+Acer,Notebook,Intel Core i5,12,Nvidia GeForce,Linux/Android/Chrome OS,2.4,110990,0,0,141.0
+Toshiba,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.1,196900,1,0,176.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.04,93115,0,0,100.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.25,51218,0,0,100.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.9,90750,0,0,100.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.04,75350,0,0,141.0
+Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,4.42,346390,0,1,127.0
+Lenovo,Notebook,Intel Core i5,6,Nvidia GeForce,Linux/Android/Chrome OS,2.4,76450,0,0,141.0
+Dell,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.22,208890,1,0,276.0
+Dell,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.5,215928,1,0,210.0
+Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,4.42,308000,0,0,127.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.95,129800,0,0,157.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.73,225489,0,0,127.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.04,107690,0,1,141.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.7,110220,0,0,112.0
+Asus,2 in 1 Convertible,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.3,197890,1,0,282.0
+HP,Notebook,Intel Core i7,6,Intel HD,Linux/Android/Chrome OS,2.04,63690,0,0,100.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.99,192390,0,0,127.0
+Dell,2 in 1 Convertible,Intel Core i7,12,Intel HD,Linux/Android/Chrome OS,2.19,142890,1,1,141.0
+Toshiba,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.2,131450,0,0,166.0
+Lenovo,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.2,60390,0,0,141.0
+Toshiba,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.75,100650,0,0,112.0
+Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,2.25,65890,0,0,100.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.04,88660,0,0,141.0
+Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.5,130790,0,1,141.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.36,82390,0,0,100.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.6,123090,0,0,157.0
+HP,Netbook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,0.97,209880,0,0,176.0
+HP,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.1,54890,0,0,141.0
+Lenovo,Notebook,Other Intel Processor,4,Intel HD,No OS,1.9,29768,0,0,100.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.3,148390,0,0,141.0
+Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.68,97790,1,0,166.0
+Asus,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.4,126500,0,0,276.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.11,148390,1,1,166.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.4,41800,0,0,100.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.5,197890,0,0,141.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.48,229790,0,0,157.0
+Acer,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.7,138600,0,1,141.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.34,130790,0,1,166.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.18,60170,0,0,100.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.64,85690,0,0,112.0
+Toshiba,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.2,131450,0,0,166.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.48,120999,0,0,112.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.95,132550,0,0,157.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.43,159390,0,0,157.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,1.64,115419,0,0,157.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.64,75240,0,0,112.0
+Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.65,104390,0,0,141.0
+HP,Ultrabook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.26,169290,0,0,176.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.48,174900,0,0,157.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.54,207593,0,0,157.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.49,88000,0,0,118.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.5,133100,0,0,118.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.04,84699,0,0,100.0
+Lenovo,Notebook,Intel Core i7,16,Nvidia Quadro,Linux/Android/Chrome OS,2.4,326480,0,1,255.0
+Toshiba,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.47,163900,0,1,157.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.43,245190,0,0,157.0
+Dell,2 in 1 Convertible,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.08,87559,1,1,141.0
+Toshiba,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.2,174900,0,0,166.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.11,126390,0,1,166.0
+HP,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.64,130397,0,0,157.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.09,115108,0,0,141.0
+HP,Ultrabook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.26,171490,0,0,125.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.31,130790,0,0,112.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.95,116600,0,0,112.0
+Dell,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.29,178640,1,0,276.0
+HP,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.63,118800,0,0,127.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.64,107030,0,0,112.0
+Acer,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.1,44990,0,0,100.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.7,131098,0,0,127.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.95,131450,0,0,157.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.84,135189,0,0,141.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.26,148390,0,0,176.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.04,81620,0,0,100.0
+Toshiba,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.47,189750,0,1,157.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.09,116924,0,0,141.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.64,111156,0,0,157.0
+Lenovo,2 in 1 Convertible,Intel Core i7,4,Intel HD,Linux/Android/Chrome OS,1.8,93170,1,1,141.0
+Toshiba,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.4,156750,0,1,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.3,115456,0,0,141.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.54,110000,0,0,157.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.84,231367,0,0,141.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.43,161590,0,0,157.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.78,170020,0,1,127.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.6,251899,0,1,127.0
+Asus,Netbook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.2,31669,0,0,135.0
+Lenovo,Notebook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.1,288200,0,1,210.0
+HP,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.91,107690,0,1,141.0
+Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.3,120340,1,1,141.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.04,107690,0,0,100.0
+Dell,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.2,247940,1,0,276.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.31,77566,0,0,100.0
+HP,Notebook,Intel Core i5,4,Intel HD,No OS,1.96,54890,0,0,100.0
+Acer,Notebook,AMD A-Series,8,AMD Radeon,Linux/Android/Chrome OS,2.4,49390,0,0,100.0
+Dell,2 in 1 Convertible,Intel Core i7,12,Intel HD,Linux/Android/Chrome OS,1.6,142890,1,1,166.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.94,200090,0,0,141.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.04,117700,0,0,141.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,No OS,4.0,109780,0,1,127.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.25,61490,0,0,141.0
+Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux/Android/Chrome OS,2.32,108899,0,0,141.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.8,212190,0,0,141.0
+Dell,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.29,160380,0,0,166.0
+Asus,Gaming,Intel Core i7,64,Nvidia GeForce,Linux/Android/Chrome OS,3.58,437250,0,1,127.0
+Dell,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.62,87781,1,0,166.0
+Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.21,146190,0,0,282.0
+Apple,Ultrabook,Other Intel Processor,8,Intel HD,Mac OS,0.92,143000,0,1,226.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.06,53018,0,0,100.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.31,131890,0,0,100.0
+HP,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.26,131890,0,0,176.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.49,119900,0,0,166.0
+Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.3,188484,1,1,176.0
+Lenovo,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,3.0,72490,0,0,106.0
+Lenovo,Notebook,Intel Core i5,4,Nvidia GeForce,Linux/Android/Chrome OS,2.3,107470,0,1,141.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.78,274890,0,0,127.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.1,59400,0,0,100.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.31,103400,0,0,141.0
+Lenovo,Ultrabook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,0.99,153890,1,1,235.0
+Lenovo,Gaming,Intel Core i7,32,Nvidia GeForce,Linux/Android/Chrome OS,4.6,356400,0,1,127.0
+Lenovo,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,0.69,71090,1,1,224.0
+HP,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.3,225390,0,1,331.0
+Dell,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.18,82500,0,0,141.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.54,113409,0,0,157.0
+HP,Workstation,Intel Core i7,8,AMD FirePro,Linux/Android/Chrome OS,1.9,164450,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.7,131890,0,0,157.0
+HP,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.29,67650,0,0,276.0
+Acer,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.4,42570,0,0,100.0
+Dell,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,43284,0,0,100.0
+HP,Notebook,Intel Core i3,4,Intel HD,No OS,1.86,38059,0,0,100.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.7,175890,0,1,127.0
+Dell,Ultrabook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,1.4,90018,0,1,166.0
+HP,Netbook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.4,175890,0,0,125.0
+Acer,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.4,87890,0,0,141.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.36,70268,0,0,141.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.6,175890,0,0,127.0
+HP,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.96,55000,0,0,100.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.3,252890,0,1,127.0
+Dell,Ultrabook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.5,124867,0,0,125.0
+Dell,Ultrabook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,1.5,128367,0,0,125.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,22990,0,0,100.0
+HP,Workstation,Intel Core i7,8,AMD FirePro,Linux/Android/Chrome OS,3.0,318890,0,1,127.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.4,131890,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.5,155441,0,0,125.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.9,166231,0,0,127.0
+Lenovo,2 in 1 Convertible,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.1,95370,1,1,141.0
+HP,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.1,43780,0,0,141.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.59,147290,0,1,141.0
+HP,Notebook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,1.16,186890,1,0,276.0
+Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux/Android/Chrome OS,2.24,84606,0,0,100.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,47190,0,0,100.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.16,216590,0,0,166.0
+Lenovo,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,0.69,60390,1,1,224.0
+Dell,Ultrabook,Intel Core i7,8,Intel Iris,Linux/Android/Chrome OS,1.23,151690,0,0,166.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.6,302499,0,1,127.0
+Toshiba,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.05,244860,0,0,166.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,3.52,144374,0,0,127.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.16,185900,0,0,166.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.43,166430,0,0,157.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.09,57599,0,0,100.0
+Asus,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.0,47850,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.8,183590,1,1,157.0
+Lenovo,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,0.69,52690,1,1,224.0
+HP,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.26,208450,0,0,125.0
+Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,No OS,2.4,108790,0,1,141.0
+HP,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,3.35,124190,0,1,127.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.04,69190,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,1.8,225542,1,1,157.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,1.5,30580,0,0,112.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.84,82720,0,0,141.0
+Acer,Notebook,Intel Core i5,4,Nvidia GeForce,Linux/Android/Chrome OS,2.23,67760,0,0,141.0
+Lenovo,Notebook,Intel Core i7,16,AMD Radeon,Linux/Android/Chrome OS,2.5,120890,0,0,141.0
+HP,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,3.0,434434,0,1,127.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.5,86240,0,0,100.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.78,263890,0,0,127.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.88,238889,0,0,141.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,2.8,268400,1,1,210.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.4,125708,0,0,141.0
+HP,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.48,179190,1,0,166.0
+HP,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,2.59,245190,0,1,141.0
+HP,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.48,197890,1,0,221.0
+HP,Workstation,Intel Core i7,8,Nvidia Quadro,Linux/Android/Chrome OS,2.0,208890,0,0,141.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.26,252664,0,0,176.0
+Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.18,111089,0,0,141.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.88,173690,0,0,141.0
+Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.27,257290,1,1,210.0
+Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,1.9,37290,0,0,100.0
+HP,Notebook,AMD E-Series,4,AMD Radeon,Linux/Android/Chrome OS,1.86,32670,0,0,100.0
+Lenovo,Notebook,Intel Core i5,8,AMD Radeon,No OS,2.32,65890,0,0,141.0
+Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.62,131890,0,0,141.0
+Dell,Notebook,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.04,247575,1,1,282.0
+HP,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,1.91,52678,0,0,141.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.7,164208,0,0,127.0
+Lenovo,Ultrabook,Intel Core i7,12,Intel HD,Linux/Android/Chrome OS,1.4,252890,0,0,157.0
+Lenovo,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.5,86734,0,0,141.0
+HP,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.48,224510,1,0,221.0
+Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.7,164890,0,0,157.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.7,194590,0,0,157.0
+HP,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.62,98890,0,1,141.0
+Lenovo,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,2.2,50490,0,0,100.0
+HP,Notebook,Intel Core i5,4,Intel HD,No OS,2.1,52469,0,0,100.0
+Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.62,164780,0,0,282.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.95,152900,0,1,141.0
+Lenovo,Notebook,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,51480,0,0,141.0
+HP,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.44,27390,0,0,112.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,92290,0,1,141.0
+HP,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.96,74690,0,0,141.0
+HP,Notebook,Intel Core i7,16,Intel UHD,Linux/Android/Chrome OS,2.1,127490,0,0,141.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,40590,0,0,100.0
+Lenovo,Notebook,Intel Core i5,4,Intel HD,No OS,2.1,43780,0,0,100.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.2,77990,0,0,141.0
+Asus,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.0,84590,0,0,157.0
+Lenovo,Notebook,Intel Core i7,4,Intel HD,Linux/Android/Chrome OS,2.32,90750,0,0,141.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,3.31,143550,0,1,141.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,1.91,236871,0,0,141.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.07,71500,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.36,180070,1,1,210.0
+Lenovo,Ultrabook,Intel Core i7,6,Nvidia GeForce,Linux/Android/Chrome OS,1.54,91410,0,0,141.0
+Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,1.98,98451,0,0,141.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.1,36630,0,0,100.0
+HP,Notebook,Intel Core i7,6,Nvidia GeForce,Linux/Android/Chrome OS,2.18,87890,0,1,141.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.591,99990,0,1,141.0
+Dell,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,2.09,129690,1,0,141.0
+Acer,Notebook,Intel Core i5,4,Nvidia GeForce,Linux/Android/Chrome OS,2.23,76010,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.23,120890,1,0,276.0
+Acer,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.2,285890,0,1,127.0
+Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,Linux/Android/Chrome OS,2.4,90090,0,1,141.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.86,53350,0,0,100.0
+Apple,Ultrabook,Other Intel Processor,8,Intel HD,Mac OS,0.92,127930,0,1,226.0
+Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.6,131890,1,1,166.0
+HP,Notebook,Intel Core i7,12,Nvidia GeForce,Linux/Android/Chrome OS,2.21,145970,0,1,141.0
+Lenovo,Notebook,Intel Core i3,4,AMD Radeon,No OS,1.9,40480,0,0,100.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.3,236500,0,1,127.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.1,29920,0,0,100.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.43,225379,0,0,127.0
+Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux/Android/Chrome OS,2.3,54890,0,0,100.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.2,69190,0,0,100.0
+Dell,2 in 1 Convertible,Intel Core i7,16,Intel UHD,Linux/Android/Chrome OS,2.0,141350,1,0,141.0
+Dell,Ultrabook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.2,294800,1,0,276.0
+Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,128590,0,0,141.0
+Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux/Android/Chrome OS,2.36,97790,0,0,141.0
+HP,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.91,63690,0,0,100.0
+Lenovo,Notebook,AMD E-Series,4,AMD Radeon,Linux/Android/Chrome OS,2.2,32890,0,0,100.0
+Acer,Notebook,Intel Core i3,8,Nvidia GeForce,Linux/Android/Chrome OS,3.3,69190,0,0,106.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.2,269390,0,0,141.0
+Apple,Ultrabook,Other Intel Processor,8,Intel HD,Mac OS,0.92,140690,0,1,226.0
+Asus,Notebook,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.2,192390,0,0,141.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.43,214389,0,1,127.0
+Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,2.191,109890,1,1,141.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.9,214390,0,0,127.0
+Acer,Netbook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.3,19140,0,0,135.0
+Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Linux/Android/Chrome OS,3.3,65780,0,0,106.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,No OS,2.8,59290,0,0,106.0
+Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.6,139920,0,1,141.0
+Acer,2 in 1 Convertible,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.2,126390,1,1,157.0
+Lenovo,Notebook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,2.3,168190,0,1,141.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,162372,0,0,141.0
+HP,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.1,58190,0,0,141.0
+Dell,Ultrabook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.26,188471,1,0,176.0
+Dell,2 in 1 Convertible,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.08,55990,1,0,147.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.65,33990,0,0,100.0
+Dell,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.29,162470,1,0,276.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.18,57405,0,0,100.0
+Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.6,113190,1,1,141.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.2,126390,0,0,141.0
+Lenovo,Netbook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.3,181500,1,1,176.0
+Dell,Notebook,Intel Core i3,8,Intel HD,Linux/Android/Chrome OS,2.3,51591,1,0,100.0
+MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.7,175780,0,0,127.0
+Apple,Ultrabook,Intel Core i5,4,Intel HD,Mac OS,1.08,105490,0,0,135.0
+HP,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.1,52580,0,0,141.0
+HP,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.54,241801,0,0,210.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,2.24,81070,0,0,100.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.3,128590,0,0,141.0
+Lenovo,Notebook,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.4,164890,0,1,166.0
+Lenovo,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.2,65733,0,0,141.0
+Asus,Ultrabook,Intel Core i7,8,Intel HD,Linux/Android/Chrome OS,1.45,140800,0,0,166.0
+Acer,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.4,39798,0,0,100.0
+Dell,2 in 1 Convertible,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.77,197890,1,0,127.0
+HP,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.54,120999,0,0,157.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.5,176000,0,1,141.0
+Dell,Notebook,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.6,96250,0,0,112.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,2.34,255750,0,1,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,No OS,2.3,63030,0,1,141.0
+Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.24,199430,1,0,276.0
+Dell,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,35640,0,0,100.0
+HP,Notebook,AMD A-Series,4,AMD Radeon,Linux/Android/Chrome OS,1.86,43890,0,0,100.0
+Lenovo,Notebook,Intel Core i3,6,Nvidia GeForce,Linux/Android/Chrome OS,2.4,62590,0,0,141.0
+Lenovo,Notebook,Intel Core i5,8,Intel HD,Linux/Android/Chrome OS,1.9,117920,0,1,157.0
+Dell,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,48839,0,0,100.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.0,37290,0,0,100.0
+Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Linux/Android/Chrome OS,4.0,209000,0,1,127.0
+Dell,Notebook,Intel Core i3,4,Intel HD,Linux/Android/Chrome OS,2.29,53900,0,0,100.0
+Lenovo,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.32,98450,0,0,141.0
+MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.4,135190,0,0,141.0
+Lenovo,2 in 1 Convertible,Intel Core i5,4,Intel HD,Linux/Android/Chrome OS,1.8,91631,1,0,157.0
+Asus,Ultrabook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,1.2,80190,0,1,166.0
+Dell,Notebook,Intel Core i3,6,Intel HD,Linux/Android/Chrome OS,2.3,50490,0,0,100.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.4,31790,0,0,100.0
+Dell,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,2.2,41690,0,0,100.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.6,98890,0,1,141.0
+HP,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.04,60499,0,0,141.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.3,88659,0,0,100.0
+HP,Netbook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.17,22990,0,0,135.0
+Asus,Notebook,Intel Core i7,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,79235,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i7,4,Intel HD,Linux/Android/Chrome OS,1.8,70180,1,1,157.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.3,164890,1,1,276.0
+Lenovo,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.5,25190,0,0,112.0
+HP,Notebook,Intel Core i7,6,AMD Radeon,Linux/Android/Chrome OS,2.19,84040,0,0,100.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,40590,0,0,100.0
+Asus,Ultrabook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,1.2,80190,0,1,166.0
+Dell,Notebook,Intel Core i3,6,Intel HD,Linux/Android/Chrome OS,2.3,50490,0,0,100.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.4,31790,0,0,100.0
+Dell,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,2.2,41690,0,0,100.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.6,98890,0,1,141.0
+HP,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.04,60499,0,0,141.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.3,88659,0,0,100.0
+HP,Netbook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.17,22990,0,0,135.0
+Asus,Notebook,Intel Core i7,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,79235,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i7,4,Intel HD,Linux/Android/Chrome OS,1.8,70180,1,1,157.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.3,164890,1,1,276.0
+Lenovo,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.5,25190,0,0,112.0
+HP,Notebook,Intel Core i7,6,AMD Radeon,Linux/Android/Chrome OS,2.19,84040,0,0,100.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,40590,0,0,100.0
+Asus,Ultrabook,Other Intel Processor,8,Intel HD,Linux/Android/Chrome OS,1.2,80190,0,1,166.0
+Dell,Notebook,Intel Core i3,6,Intel HD,Linux/Android/Chrome OS,2.3,50490,0,0,100.0
+Acer,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.4,31790,0,0,100.0
+Dell,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,2.2,41690,0,0,100.0
+Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,Linux/Android/Chrome OS,2.6,98890,0,1,141.0
+HP,Notebook,AMD A-Series,6,AMD Radeon,Linux/Android/Chrome OS,2.04,60499,0,0,141.0
+Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux/Android/Chrome OS,2.3,88659,0,0,100.0
+HP,Netbook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.17,22990,0,0,135.0
+Asus,Notebook,Intel Core i7,4,Nvidia GeForce,Linux/Android/Chrome OS,2.2,79235,0,0,100.0
+Lenovo,2 in 1 Convertible,Intel Core i7,4,Intel HD,Linux/Android/Chrome OS,1.8,70180,1,1,157.0
+Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Linux/Android/Chrome OS,1.3,164890,1,1,276.0
+Lenovo,Notebook,Other Intel Processor,2,Intel HD,Linux/Android/Chrome OS,1.5,25190,0,0,112.0
+HP,Notebook,Intel Core i7,6,AMD Radeon,Linux/Android/Chrome OS,2.19,84040,0,0,100.0
+Asus,Notebook,Other Intel Processor,4,Intel HD,Linux/Android/Chrome OS,2.2,40590,0,0,100.0
