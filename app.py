@@ -52,8 +52,8 @@ if st.button("Predict Price"):
         "OpSys": os,
         "Weight": weight,
         "Touchscreen": touchscreen_val,
-        "IPS": ips_val,
-        "ppi": ppi,
+        "IPS_Panel": ips_val,
+        "PPI": ppi,
     }])
 
     # pipe is the full saved pipeline: it first one-hot encodes the
